@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* base-oracle - x402-native Base chain data API (wallet report, token safety, gas oracle, tx explain, x402 audit). 8 paid endpoints at 0.05 USDC on Base mainnet + free sample. [Service](https://arturo-epiphytical-torrie.ngrok-free.dev) [GitHub](https://github.com/viniciusguardaa-cpu/base-oracle)
 
 ---
 
